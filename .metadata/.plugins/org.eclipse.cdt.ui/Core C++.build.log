@@ -1,0 +1,13 @@
+23:08:53 **** Rebuild of configuration Debug for project Core C++ ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dividision\\divide.o" "..\\src\\dividision\\divide.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\add_two_numbers.o" "..\\src\\add_two_numbers.cpp" 
+g++ -o "Core C++.exe" "src\\add_two_numbers.o" "src\\dividision\\divide.o" 
+src\dividision\divide.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Core C++\Debug/../src/dividision/divide.cpp:13: multiple definition of `main'
+src\add_two_numbers.o:C:\Users\vibhor\Desktop\C++Learning\Core C++\Debug/../src/add_two_numbers.cpp:14: first defined here
+collect2: ld returned 1 exit status
+
+23:09:11 Build Finished (took 18s.24ms)
+

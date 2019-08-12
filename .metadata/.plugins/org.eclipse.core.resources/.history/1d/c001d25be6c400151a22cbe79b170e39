@@ -1,0 +1,27 @@
+/*
+ * globalVariables.cpp
+ *
+ *  Created on: Jan 27, 2016
+ *      Author: vibhor
+ */
+
+
+#include<iostream>
+using namespace std;
+int i;
+double j;
+float k;
+char a;
+long l;
+int main()
+{
+	cout<<"global variable is:"<<i;
+	cout<<"global variable is:"<<j;
+	cout<<"global variable is:"<<k;
+	cout<<"global variable is:"<<l;
+	cout<<"global variable is:"<<a;
+}
+
+
+
+

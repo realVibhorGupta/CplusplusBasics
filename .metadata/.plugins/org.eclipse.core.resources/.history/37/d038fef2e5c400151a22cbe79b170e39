@@ -1,0 +1,19 @@
+/*
+ * globalVariables.cpp
+ *
+ *  Created on: Jan 27, 2016
+ *      Author: vibhor
+ */
+
+
+#include<iostream>
+using namespace std;
+int i=0;
+int main()
+{
+	cout<<"global variable is:"<<i;
+}
+
+
+
+

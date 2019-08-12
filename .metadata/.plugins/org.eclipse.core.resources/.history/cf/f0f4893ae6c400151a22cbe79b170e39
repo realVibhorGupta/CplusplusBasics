@@ -1,0 +1,23 @@
+/*
+ * static_variable.cpp
+ *
+ *  Created on: Jan 27, 2016
+ *      Author: vibhor
+ */
+#include <iostream>
+
+using namespace std;
+
+ static int a=1;
+
+
+ void first_function()
+ {
+	 cout<<a;
+ }
+  int main() {
+
+	 cout<<"the static variable is:"<<a;
+}
+
+

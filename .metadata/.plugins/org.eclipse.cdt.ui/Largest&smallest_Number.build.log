@@ -1,0 +1,5 @@
+13:08:12 **** Clean-only build of configuration Debug for project Largest&smallest_Number ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+
+13:08:12 Build Finished (took 78ms)
+

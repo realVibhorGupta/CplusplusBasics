@@ -1,0 +1,8 @@
+19:19:07 **** Rebuild of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\fibonacci.o" "..\\src\\fibonacci.cpp" 
+g++ -o FibbonacciSeries.exe "src\\fibonacci.o" 
+
+19:19:24 Build Finished (took 17s.324ms)
+

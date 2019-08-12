@@ -1,0 +1,31 @@
+/*
+ * breakstatement.cpp
+ *
+ *  Created on: Jan 23, 2016
+ *      Author: vibhor
+ */
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int i;
+
+
+	for(i=1;i<10;i++)
+	{
+		cout<<i;
+		if(i==5)
+		{
+			//cout<<i;
+			break;
+		}
+
+
+	}
+}
+
+
+

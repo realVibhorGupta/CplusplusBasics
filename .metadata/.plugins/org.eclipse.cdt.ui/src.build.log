@@ -1,0 +1,6 @@
+23:08:39 **** Clean-only build of configuration Build (GNU) for project src ****
+make clean 
+make: *** No rule to make target `clean'.  Stop.
+
+23:08:40 Build Finished (took 1s.185ms)
+

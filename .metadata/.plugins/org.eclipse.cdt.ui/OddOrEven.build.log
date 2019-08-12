@@ -1,0 +1,5 @@
+14:25:40 **** Clean-only build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+
+14:25:40 Build Finished (took 6ms)
+

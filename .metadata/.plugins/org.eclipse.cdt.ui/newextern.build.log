@@ -1,0 +1,12 @@
+15:51:53 **** Incremental Build of configuration Debug for project newextern ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "new\\externVariables.o" "..\\new\\externVariables.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "new\\usingExternVariable.o" "..\\new\\usingExternVariable.cpp" 
+g++ -o newextern.exe "new\\externVariables.o" "new\\usingExternVariable.o" 
+new\usingExternVariable.o:usingExternVariable.cpp:(.data+0x0): multiple definition of `global'
+new\externVariables.o:externVariables.cpp:(.data+0x0): first defined here
+collect2: ld returned 1 exit status
+
+15:51:56 Build Finished (took 2s.641ms)
+

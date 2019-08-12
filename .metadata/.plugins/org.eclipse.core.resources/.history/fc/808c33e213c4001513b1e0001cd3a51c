@@ -1,0 +1,13 @@
+/*
+ * myHeaderFile.h
+ *
+ *  Created on: Jan 26, 2016
+ *      Author: vibhor
+ */
+
+
+
+int  add(int i,int j)
+{
+	add= i+j;
+}

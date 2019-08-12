@@ -1,0 +1,8 @@
+01:43:15 **** Rebuild of configuration Debug for project Series2 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series2.o" "..\\src\\Series2.cpp" 
+g++ -o Series2.exe "src\\Series2.o" 
+
+01:43:17 Build Finished (took 2s.460ms)
+

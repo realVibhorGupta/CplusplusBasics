@@ -1,0 +1,2310 @@
+23:32:38 **** Rebuild of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+..\src\odd_even.cpp: In function 'int main()':
+..\src\odd_even.cpp:12:2: error: 'cout' was not declared in this scope
+..\src\odd_even.cpp:13:2: error: 'cin' was not declared in this scope
+23:34:30 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+Info: Nothing to build for Series4
+23:35:14 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+Info: Nothing to build for Series4
+23:37:04 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+..\src\Series4.cpp: In function 'int main()':
+..\src\Series4.cpp:11:8: warning: unused variable 'temp' [-Wunused-variable]
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+23:38:24 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+..\src\Series4.cpp: In function 'int main()':
+..\src\Series4.cpp:18:7: error: invalid operands of types 'float' and 'int' to binary 'operator^'
+..\src\Series4.cpp:11:8: warning: unused variable 'temp' [-Wunused-variable]
+23:39:06 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+23:39:17 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+00:07:19 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+00:07:55 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+00:07:59 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+00:08:56 **** Incremental Build of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Series4.exe: Permission denied
+collect2: ld returned 1 exit status
+00:18:09 **** Rebuild of configuration Debug for project Series4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series4.o" "..\\src\\Series4.cpp" 
+g++ -o Series4.exe "src\\Series4.o" 
+Info: Nothing to build for Series4
+Info: Nothing to build for Series4
+00:21:52 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+g++ -o Stringfunctions.exe "src\\string_functions.o" 
+00:22:33 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+g++ -o Stringfunctions.exe "src\\string_functions.o" 
+Info: Nothing to build for Stringfunctions
+Info: Nothing to build for Stringfunctions
+Info: Nothing to build for Stringfunctions
+00:28:23 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+g++ -o Stringfunctions.exe "src\\string_functions.o" 
+00:30:52 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+..\src\string_functions.cpp: In function 'int main()':
+..\src\string_functions.cpp:72:1: error: expected '}' at end of input
+00:31:12 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+g++ -o Stringfunctions.exe "src\\string_functions.o" 
+00:32:55 **** Incremental Build of configuration Debug for project Stringfunctions ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_functions.o" "..\\src\\string_functions.cpp" 
+g++ -o Stringfunctions.exe "src\\string_functions.o" 
+00:34:48 **** Rebuild of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+..\src\odd_even.cpp: In function 'int main()':
+..\src\odd_even.cpp:12:2: error: 'cout' was not declared in this scope
+..\src\odd_even.cpp:13:2: error: 'cin' was not declared in this scope
+00:35:12 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+00:38:14 **** Rebuild of configuration Debug for project String ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_file.o" "..\\src\\string_file.cpp" 
+g++ -o String.exe "src\\string_file.o" 
+00:39:28 **** Incremental Build of configuration Debug for project String ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_file.o" "..\\src\\string_file.cpp" 
+..\src\string_file.cpp: In function 'int main()':
+..\src\string_file.cpp:20:12: warning: statement has no effect [-Wunused-value]
+g++ -o String.exe "src\\string_file.o" 
+00:40:15 **** Incremental Build of configuration Debug for project String ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string_file.o" "..\\src\\string_file.cpp" 
+g++ -o String.exe "src\\string_file.o" 
+Info: Nothing to build for String
+Info: Nothing to build for String
+Info: Nothing to build for String
+Info: Nothing to build for String
+00:49:44 **** Rebuild of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp: In function 'int main()':
+..\src\substring.cpp:18:32: error: 'substr' was not declared in this scope
+..\src\substring.cpp:21:1: error: expected ';' before '}' token
+..\src\substring.cpp:15:7: warning: unused variable 'a' [-Wunused-variable]
+..\src\substring.cpp:16:7: warning: unused variable 'b' [-Wunused-variable]
+01:09:14 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp:31:28: error: empty character constant
+..\src\substring.cpp:49:2: error: 'C' does not name a type
+..\src\substring.cpp:50:2: error: expected declaration before '}' token
+01:09:38 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp:31:28: error: empty character constant
+..\src\substring.cpp:53:1: error: expected declaration before '}' token
+01:10:15 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp:31:28: error: empty character constant
+..\src\substring.cpp:53:1: error: expected declaration before '}' token
+01:11:23 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp:31:28: error: empty character constant
+01:14:43 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp:31:32: error: empty character constant
+01:15:25 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+g++ -o Substring.exe "src\\substring.o" 
+Info: Nothing to build for Substring
+Info: Nothing to build for Substring
+Info: Nothing to build for Substring
+01:16:26 **** Incremental Build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+g++ -o Substring.exe "src\\substring.o" 
+Info: Nothing to build for Substring
+01:22:49 **** Rebuild of configuration Debug for project patterns ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "Pattern1\\pattern1.o" "..\\Pattern1\\pattern1.cpp" 
+g++ -o patterns.exe "Pattern1\\pattern1.o" 
+01:26:17 **** Rebuild of configuration Debug for project Pattern2 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.cpp" 
+g++ -o Pattern2.exe "src\\pattern2.o" 
+Info: Nothing to build for Pattern2
+01:26:49 **** Incremental Build of configuration Debug for project Pattern2 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern2.o" "..\\src\\pattern2.cpp" 
+g++ -o Pattern2.exe "src\\pattern2.o" 
+01:30:20 **** Rebuild of configuration Debug for project Pattern3 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern3.o" "..\\src\\pattern3.cpp" 
+g++ -o Pattern3.exe "src\\pattern3.o" 
+Info: Nothing to build for Pattern3
+01:34:07 **** Rebuild of configuration Debug for project Pattern4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+..\src\pattern4.cpp:13:9: warning: multi-character character constant [-Wmultichar]
+..\src\pattern4.cpp: In function 'int main()':
+..\src\pattern4.cpp:13:9: warning: overflow in implicit constant conversion [-Woverflow]
+g++ -o Pattern4.exe "src\\pattern4.o" 
+Info: Nothing to build for Pattern4
+01:41:29 **** Rebuild of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+..\src\pattern4.cpp: In function 'int main()':
+..\src\pattern4.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern4.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern4.o" 
+Info: Nothing to build for Pattern5
+01:42:28 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+..\src\pattern4.cpp: In function 'int main()':
+..\src\pattern4.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern4.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern4.o" 
+Info: Nothing to build for Pattern5
+Info: Nothing to build for Pattern5
+01:42:56 **** Rebuild of configuration Debug for project DateTime ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Datetime.o" "..\\src\\Datetime.cpp" 
+g++ -o DateTime.exe "src\\Datetime.o" 
+01:42:59 **** Rebuild of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\fibonacci.o" "..\\src\\fibonacci.cpp" 
+g++ -o FibbonacciSeries.exe "src\\fibonacci.o" 
+01:43:02 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for Pattern2
+Info: Nothing to build for Pattern3
+Info: Nothing to build for Pattern4
+Info: Nothing to build for Pattern5
+01:43:06 **** Rebuild of configuration Debug for project Recursion ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recursion.o" "..\\src\\recursion.cpp" 
+..\src\recursion.cpp: In function 'int add(int)':
+..\src\recursion.cpp:23:1: warning: control reaches end of non-void function [-Wreturn-type]
+g++ -o Recursion.exe "src\\recursion.o" 
+01:43:11 **** Rebuild of configuration Debug for project Series ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\NaturalNumberSeries.o" "..\\src\\NaturalNumberSeries.cpp" 
+g++ -o Series.exe "src\\NaturalNumberSeries.o" 
+01:43:15 **** Rebuild of configuration Debug for project Series2 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Series2.o" "..\\src\\Series2.cpp" 
+g++ -o Series2.exe "src\\Series2.o" 
+01:43:18 **** Rebuild of configuration Debug for project Series3 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\series3.o" "..\\src\\series3.cpp" 
+g++ -o Series3.exe "src\\series3.o" 
+Info: Nothing to build for Series4
+Info: Nothing to build for String
+Info: Nothing to build for Stringfunctions
+Info: Nothing to build for Substring
+01:43:22 **** Rebuild of configuration Debug for project SumOfPositiveInteger ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum_positive_integer.o" "..\\src\\sum_positive_integer.cpp" 
+g++ -o SumOfPositiveInteger.exe "src\\sum_positive_integer.o" 
+01:43:24 **** Rebuild of configuration Debug for project SumOfPositiveIntegers ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o SumOfPositiveIntegers.exe "src\\program.o" 
+01:43:27 **** Rebuild of configuration Debug for project coomandLIne ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\commandline.o" "..\\src\\commandline.cpp" 
+g++ -o coomandLIne.exe "src\\commandline.o" 
+Info: Nothing to build for patterns
+Info: Nothing to build for Pattern5
+01:44:33 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+..\src\pattern4.cpp: In function 'int main()':
+..\src\pattern4.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern4.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern4.o" 
+01:45:28 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+..\src\pattern4.cpp: In function 'int main()':
+..\src\pattern4.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern4.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern4.o" 
+01:47:10 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" "src\\pattern4.o" 
+src\pattern4.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Pattern5\Debug/../src/pattern4.cpp:14: multiple definition of `main'
+src\pattern5.o:C:\Users\vibhor\Desktop\C++Learning\Pattern5\Debug/../src/pattern5.cpp:14: first defined here
+collect2: ld returned 1 exit status
+01:47:20 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern5.exe "src\\pattern5.o" 
+Info: Nothing to build for Pattern5
+01:48:57 **** Incremental Build of configuration Debug for project Pattern4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+g++ -o Pattern4.exe "src\\pattern4.o" 
+01:51:34 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+01:51:56 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+Info: Nothing to build for Pattern5
+01:53:32 **** Incremental Build of configuration Debug for project Pattern4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+g++ -o Pattern4.exe "src\\pattern4.o" 
+Info: Nothing to build for Pattern4
+01:54:15 **** Incremental Build of configuration Debug for project Pattern4 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern4.o" "..\\src\\pattern4.cpp" 
+g++ -o Pattern4.exe "src\\pattern4.o" 
+Info: Nothing to build for Pattern5
+01:56:01 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+01:56:20 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+01:56:45 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+01:57:07 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+01:57:56 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+Info: Nothing to build for Pattern5
+Info: Nothing to build for Pattern5
+01:58:49 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:04:38 **** Rebuild of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+Info: Nothing to build for Pattern9
+02:05:33 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+02:06:24 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:06:42 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:07:16 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:07:20 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:08:04 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:08:31 **** Rebuild of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+02:08:52 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern9.exe "src\\pattern9.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Pattern9.exe: Permission denied
+collect2: ld returned 1 exit status
+02:11:52 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+02:12:34 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+02:14:21 **** Rebuild of configuration Debug for project Pattern11 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern11.o" "..\\src\\pattern11.cpp" 
+g++ -o Pattern11.exe "src\\pattern11.o" 
+Info: Nothing to build for Pattern11
+02:14:36 **** Incremental Build of configuration Debug for project Pattern11 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern11.o" "..\\src\\pattern11.cpp" 
+g++ -o Pattern11.exe "src\\pattern11.o" 
+Info: Nothing to build for Pattern5
+02:33:11 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:33:56 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:36:56 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:37:33 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:38:16 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:39:44 **** Incremental Build of configuration Debug for project Pattern5 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern5.o" "..\\src\\pattern5.cpp" 
+..\src\pattern5.cpp: In function 'int main()':
+..\src\pattern5.cpp:15:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern5.exe "src\\pattern5.o" 
+02:42:25 **** Rebuild of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+c:/MinGW/i686-pc-mingw32/lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x3c): undefined reference to `WinMain@16'
+collect2: ld returned 1 exit status
+02:42:32 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern10.exe "src\\pattern10.o" 
+c:/MinGW/i686-pc-mingw32/lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x3c): undefined reference to `WinMain@16'
+collect2: ld returned 1 exit status
+02:42:40 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Pattern10.exe "src\\pattern10.o" 
+c:/MinGW/i686-pc-mingw32/lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x3c): undefined reference to `WinMain@16'
+collect2: ld returned 1 exit status
+02:42:48 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+..\src\pattern10.cpp: In function 'int main()':
+..\src\pattern10.cpp:13:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:43:09 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:43:31 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:43:51 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:44:14 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:44:30 **** Incremental Build of configuration Debug for project Pattern10 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern10.o" "..\\src\\pattern10.cpp" 
+g++ -o Pattern10.exe "src\\pattern10.o" 
+02:46:16 **** Rebuild of configuration Debug for project Pattern12 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern12.o" "..\\src\\pattern12.cpp" 
+..\src\pattern12.cpp: In function 'int main()':
+..\src\pattern12.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern12.exe "src\\pattern12.o" 
+Info: Nothing to build for Pattern12
+02:49:06 **** Rebuild of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+..\src\pattern7.cpp: In function 'int main()':
+..\src\pattern7.cpp:13:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern7.exe "src\\pattern7.o" 
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+02:50:49 **** Incremental Build of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+..\src\pattern7.cpp: In function 'int main()':
+..\src\pattern7.cpp:13:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern7.exe "src\\pattern7.o" 
+02:51:09 **** Incremental Build of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+..\src\pattern7.cpp: In function 'int main()':
+..\src\pattern7.cpp:13:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern7.exe "src\\pattern7.o" 
+02:52:19 **** Incremental Build of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+..\src\pattern7.cpp: In function 'int main()':
+..\src\pattern7.cpp:13:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern7.exe "src\\pattern7.o" 
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for SumOfPositiveIntegers
+Info: Nothing to build for SumOfPositiveIntegers
+02:56:47 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+02:57:24 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for OddOrEven
+02:57:59 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+..\src\odd_even.cpp: In function 'int main()':
+..\src\odd_even.cpp:14:13: error: array must be initialized with a brace-enclosed initializer
+..\src\odd_even.cpp:15:13: error: array must be initialized with a brace-enclosed initializer
+..\src\odd_even.cpp:16:9: error: ISO C++ forbids comparison between pointer and integer [-fpermissive]
+..\src\odd_even.cpp:16:17: error: ISO C++ forbids comparison between pointer and integer [-fpermissive]
+02:58:10 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for OddOrEven
+02:58:44 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for OddOrEven
+Info: Nothing to build for OddOrEven
+02:59:34 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\odd_even.o" "..\\src\\odd_even.cpp" 
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file OddOrEven.exe: Permission denied
+collect2: ld returned 1 exit status
+14:05:24 **** Incremental Build of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+g++ -o Pattern7.exe "src\\pattern7.o" 
+Info: Nothing to build for Pattern5
+14:08:01 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+..\src\pattern6.cpp: At global scope:
+..\src\pattern6.cpp:37:1: error: expected declaration before '}' token
+14:08:11 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+..\src\pattern6.cpp: At global scope:
+..\src\pattern6.cpp:37:1: error: expected declaration before '}' token
+14:08:27 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+14:09:12 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+14:27:10 **** Rebuild of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+..\src\pallindrome.cpp:7:21: fatal error: iostream.h: No such file or directory
+compilation terminated.
+14:27:39 **** Incremental Build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+..\src\pallindrome.cpp:10:11: error: '::main' must return 'int'
+..\src\pallindrome.cpp: In function 'int main()':
+..\src\pallindrome.cpp:12:9: error: 'clrscr' was not declared in this scope
+..\src\pallindrome.cpp:13:2: error: 'cout' was not declared in this scope
+..\src\pallindrome.cpp:13:2: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+..\src\pallindrome.cpp:14:2: error: 'cin' was not declared in this scope
+..\src\pallindrome.cpp:14:2: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:61:18: note:   'std::cin'
+14:27:55 **** Incremental Build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+..\src\pallindrome.cpp:10:11: error: '::main' must return 'int'
+..\src\pallindrome.cpp: In function 'int main()':
+..\src\pallindrome.cpp:12:9: error: 'clrscr' was not declared in this scope
+..\src\pallindrome.cpp:13:2: error: 'cout' was not declared in this scope
+..\src\pallindrome.cpp:13:2: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+..\src\pallindrome.cpp:14:2: error: 'cin' was not declared in this scope
+..\src\pallindrome.cpp:14:2: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:61:18: note:   'std::cin'
+14:29:33 **** Incremental Build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+..\src\pallindrome.cpp:10:11: error: '::main' must return 'int'
+..\src\pallindrome.cpp: In function 'int main()':
+..\src\pallindrome.cpp:12:9: error: 'clrscr' was not declared in this scope
+14:29:55 **** Incremental Build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+g++ -o Pallindrome.exe "src\\pallindrome.o" 
+Info: Nothing to build for Pallindrome
+14:30:29 **** Incremental Build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pallindrome.o" "..\\src\\pallindrome.cpp" 
+g++ -o Pallindrome.exe "src\\pallindrome.o" 
+Info: Nothing to build for Pallindrome
+Info: Nothing to build for Pattern5
+14:33:46 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+Info: Nothing to build for Pattern6
+14:34:58 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern6.exe "src\\pattern6.o" 
+14:35:36 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern6.exe "src\\pattern6.o" 
+14:43:12 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+14:43:59 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+..\src\pattern6.cpp: In function 'int main()':
+..\src\pattern6.cpp:11:16: warning: unused variable 'rows' [-Wunused-variable]
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+14:44:22 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+14:55:38 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+14:56:04 **** Incremental Build of configuration Debug for project Pattern6 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern6.o" "..\\src\\pattern6.cpp" 
+g++ -o Pattern6.exe "src\\pattern6.o" 
+Info: Nothing to build for Pattern6
+15:00:03 **** Rebuild of configuration Debug for project Pattern8 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern8.o" "..\\src\\pattern8.cpp" 
+g++ -o Pattern8.exe "src\\pattern8.o" 
+c:/MinGW/i686-pc-mingw32/lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x3c): undefined reference to `WinMain@16'
+collect2: ld returned 1 exit status
+15:00:14 **** Incremental Build of configuration Debug for project Pattern8 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern8.o" "..\\src\\pattern8.cpp" 
+g++ -o Pattern8.exe "src\\pattern8.o" 
+Info: Nothing to build for Pattern8
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern7
+15:01:53 **** Incremental Build of configuration Debug for project Pattern7 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern7.o" "..\\src\\pattern7.cpp" 
+g++ -o Pattern7.exe "src\\pattern7.o" 
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern11
+15:02:38 **** Incremental Build of configuration Debug for project Pattern12 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern12.o" "..\\src\\pattern12.cpp" 
+..\src\pattern12.cpp: In function 'int main()':
+..\src\pattern12.cpp:14:12: warning: unused variable 'l' [-Wunused-variable]
+g++ -o Pattern12.exe "src\\pattern12.o" 
+Info: Nothing to build for Pattern8
+Info: Nothing to build for Pattern7
+Info: Nothing to build for Pattern12
+Info: Nothing to build for Pattern12
+15:09:24 **** Incremental Build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o OddOrEven.exe "src\\odd_even.o" 
+Info: Nothing to build for OddOrEven
+15:15:36 **** Rebuild of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 
+c:/MinGW/i686-pc-mingw32/lib/libmingw32.a(lib32_libmingw32_a-crt0_c.o):crt0_c.c:(.text+0x3c): undefined reference to `WinMain@16'
+collect2: ld returned 1 exit status
+15:15:45 **** Incremental Build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 
+15:16:57 **** Incremental Build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 
+15:19:23 **** Incremental Build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 
+15:19:45 **** Incremental Build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 
+Info: Nothing to build for SwapTwoCharacters
+Info: Nothing to build for SwapTwoCharacters
+16:18:56 **** Rebuild of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:18:7: error: 'in' was not declared in this scope
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrng.cpp:14:11: warning: unused variable 'temp' [-Wunused-variable]
+..\src\armstrng.cpp:14:16: warning: unused variable 'n' [-Wunused-variable]
+16:19:05 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:18:7: error: 'in' was not declared in this scope
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrng.cpp:14:11: warning: unused variable 'temp' [-Wunused-variable]
+..\src\armstrng.cpp:14:16: warning: unused variable 'n' [-Wunused-variable]
+16:22:34 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:18:7: error: 'in' was not declared in this scope
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrng.cpp:14:11: warning: unused variable 'temp' [-Wunused-variable]
+..\src\armstrng.cpp:14:16: warning: unused variable 'n' [-Wunused-variable]
+16:22:53 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:18:7: error: 'in' was not declared in this scope
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrng.cpp:14:11: warning: unused variable 'temp' [-Wunused-variable]
+..\src\armstrng.cpp:14:16: warning: unused variable 'n' [-Wunused-variable]
+16:22:58 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrng.cpp:14:11: warning: unused variable 'temp' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrng.o" 
+16:40:20 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrng.o" 
+Info: Nothing to build for armstrong
+16:40:46 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrng.o" "..\\src\\armstrng.cpp" 
+..\src\armstrng.cpp: In function 'int main()':
+..\src\armstrng.cpp:14:7: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrng.cpp:14:9: warning: unused variable 'j' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrng.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+16:40:48 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o armstrong.exe "src\\armstrng.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           16:55:08 **** Rebuild of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:16:31: error: 'n' was not declared in this scope
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrong.cpp:13:8: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrong.cpp:13:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\armstrong.cpp:14:6: warning: unused variable 'number' [-Wunused-variable]
+16:55:29 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:17:7: error: 'n' was not declared in this scope
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrong.cpp:13:8: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrong.cpp:13:10: warning: unused variable 'k' [-Wunused-variable]
+..\src\armstrong.cpp:14:6: warning: unused variable 'number' [-Wunused-variable]
+16:55:51 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrong.cpp:13:8: warning: unused variable 'j' [-Wunused-variable]
+..\src\armstrong.cpp:13:10: warning: unused variable 'k' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+16:57:28 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrong.cpp:13:8: warning: unused variable 'j' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+16:58:12 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+..\src\armstrong.cpp:13:8: warning: unused variable 'j' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+16:58:31 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+16:59:13 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:13:6: warning: unused variable 'i' [-Wunused-variable]
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+Info: Nothing to build for String
+17:02:44 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o armstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file armstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+20:06:50 **** Incremental Build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o armstrong.exe "src\\armstrong.o" 
+Info: Nothing to build for armstrong
+Info: Nothing to build for armstrong
+20:09:31 **** Rebuild of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o Armsstrong.exe "src\\armstrong.o" 
+20:11:22 **** Incremental Build of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o Armsstrong.exe "src\\armstrong.o" 
+Info: Nothing to build for Armsstrong
+Info: Nothing to build for armstrong
+Info: Nothing to build for armstrong
+Info: Nothing to build for armstrong
+Info: Nothing to build for Armsstrong
+20:18:39 **** Incremental Build of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o Armsstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Armsstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+21:25:00 **** Incremental Build of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Armsstrong.exe "src\\armstrong.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Armsstrong.exe: Permission denied
+collect2: ld returned 1 exit status
+21:47:36 **** Rebuild of configuration Debug for project ArmstrongLessThan500 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+..\src\armstrong.cpp: In function 'int main()':
+..\src\armstrong.cpp:13:5: error: 'cout' was not declared in this scope
+..\src\armstrong.cpp:13:5: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+21:48:12 **** Incremental Build of configuration Debug for project ArmstrongLessThan500 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o ArmstrongLessThan500.exe "src\\armstrong.o" 
+Info: Nothing to build for ArmstrongLessThan500
+21:51:23 **** Rebuild of configuration Debug for project ArmstrongBetweenGivenRange ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\armstrong.o" "..\\src\\armstrong.cpp" 
+g++ -o ArmstrongBetweenGivenRange.exe "src\\armstrong.o" 
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+Info: Nothing to build for ArmstrongBetweenGivenRange
+14:01:38 **** Rebuild of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+Info: Nothing to build for Debugging
+14:08:13 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+Info: Nothing to build for Debugging
+14:08:51 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+14:10:54 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:14:10: warning: unused variable 'j' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+Info: Nothing to build for Debugging
+Info: Nothing to build for Debugging
+Info: Nothing to build for Debugging
+14:11:36 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:14:10: warning: unused variable 'j' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:12:10 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:12:14 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:14:02 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:14:10: warning: unused variable 'j' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:15:32 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp:17:16: warning: multi-character character constant [-Wmultichar]
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:15:40 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Debugging.exe "src\\program.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file Debugging.exe: Permission denied
+collect2: ld returned 1 exit status
+14:16:55 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Debugging.exe "src\\program.o" 
+14:19:17 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+14:20:42 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+14:22:28 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+14:24:47 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:16:6: error: redeclaration of 'int sum'
+..\src\program.cpp:15:11: error: 'int sum' previously declared here
+..\src\program.cpp:15:6: warning: unused variable 'i' [-Wunused-variable]
+14:25:12 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:15:6: warning: unused variable 'i' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+src\program.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Debugging\Debug/../src/program.cpp:16: undefined reference to `display(int)'
+collect2: ld returned 1 exit status
+14:25:16 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o Debugging.exe "src\\program.o" 
+src\program.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Debugging\Debug/../src/program.cpp:16: undefined reference to `display(int)'
+collect2: ld returned 1 exit status
+14:25:26 **** Clean-only build of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf Armsstrong.exe src/armstrong.o src/armstrong.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:27 **** Clean-only build of configuration Debug for project Armsstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:27 **** Clean-only build of configuration Debug for project ArmstrongBetweenGivenRange ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/armstrong.o ArmstrongBetweenGivenRange.exe src/armstrong.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:27 **** Clean-only build of configuration Debug for project ArmstrongBetweenGivenRange ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:27 **** Clean-only build of configuration Debug for project ArmstrongLessThan500 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/armstrong.d src/armstrong.o ArmstrongLessThan500.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:27 **** Clean-only build of configuration Debug for project ArmstrongLessThan500 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:27 **** Clean-only build of configuration Debug for project DateTime ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/Datetime.o DateTime.exe src/Datetime.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:27 **** Clean-only build of configuration Debug for project DateTime ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:28 **** Clean-only build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/program.d Debugging.exe src/program.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:28 **** Clean-only build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:28 **** Clean-only build of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/fibonacci.d FibbonacciSeries.exe src/fibonacci.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:28 **** Clean-only build of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:28 **** Clean-only build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf OddOrEven.exe src/odd_even.d src/odd_even.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:28 **** Clean-only build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:29 **** Clean-only build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf Pallindrome.exe src/pallindrome.o src/pallindrome.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:29 **** Clean-only build of configuration Debug for project Pallindrome ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:29 **** Clean-only build of configuration Debug for project Pattern12 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/pattern12.o src/pattern12.d Pattern12.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:29 **** Clean-only build of configuration Debug for project Pattern12 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:29 **** Clean-only build of configuration Debug for project Recursion ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/recursion.o src/recursion.d Recursion.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:29 **** Clean-only build of configuration Debug for project Recursion ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:30 **** Clean-only build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/substring.d src/substring.o Substring.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:30 **** Clean-only build of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:30 **** Clean-only build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/swapping_two_characters.o SwapTwoCharacters.exe src/swapping_two_characters.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:30 **** Clean-only build of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:30 **** Clean-only build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/armstrong.d src/armstrong.o armstrong.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:31 **** Clean-only build of configuration Debug for project armstrong ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:31 **** Clean-only build of configuration Debug for project coomandLIne ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf src/commandline.d coomandLIne.exe src/commandline.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:31 **** Clean-only build of configuration Debug for project coomandLIne ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:25:40 **** Clean-only build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+rm -rf OddOrEven.exe src/odd_even.d src/odd_even.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\MinGW\bin;\bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin/client;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_45/bin/../jre/lib/i386;C:\MinGW\bin;C:\Program Files\iis express\PHP\v5.3;C:\Python34\;C:\Python34\Scripts;C:\Python27\;C:\Python27\Scripts;C:\Program Files\Java\jdk1.8.0_45\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Windows Kits\10\Windows Performance Toolkit\;C:\Users\vibhor\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\Common Files\lenovo\easyplussdk\bin;C:\Program Files\MySQL\MySQL Utilities 1.4.4\;C:\Program Files\MySQL\MySQL Utilities 1.4.4\Doctrine extensions for PHP\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\LLVM\bin;C:\Users\vibhor\AppData\Local\atom\bin;C:\Program Files\Microsoft VS Code\bin;E:\new softwares and data\eclipse]
+
+14:25:40 **** Clean-only build of configuration Debug for project OddOrEven ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+14:26:29 **** Rebuild of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:15:6: warning: unused variable 'i' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+src\program.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Debugging\Debug/../src/program.cpp:16: undefined reference to `display(int)'
+collect2: ld returned 1 exit status
+14:29:49 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int display1()':
+..\src\program.cpp:27:1: warning: no return statement in function returning non-void [-Wreturn-type]
+..\src\program.cpp: In function 'int display2()':
+..\src\program.cpp:30:1: warning: no return statement in function returning non-void [-Wreturn-type]
+..\src\program.cpp: In function 'int display3()':
+..\src\program.cpp:33:1: warning: no return statement in function returning non-void [-Wreturn-type]
+g++ -o Debugging.exe "src\\program.o" 
+14:31:45 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+g++ -o Debugging.exe "src\\program.o" 
+14:32:09 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int display1()':
+..\src\program.cpp:28:1: warning: no return statement in function returning non-void [-Wreturn-type]
+..\src\program.cpp: In function 'int display2()':
+..\src\program.cpp:30:1: warning: no return statement in function returning non-void [-Wreturn-type]
+..\src\program.cpp: In function 'int display3()':
+..\src\program.cpp:33:1: warning: no return statement in function returning non-void [-Wreturn-type]
+g++ -o Debugging.exe "src\\program.o" 
+Info: Nothing to build for Debugging
+14:34:07 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:19:14: error: 'a' was not declared in this scope
+14:34:14 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:19:14: error: 'a' was not declared in this scope
+14:40:55 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:15:6: warning: unused variable 'i' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+src\program.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Debugging\Debug/../src/program.cpp:16: undefined reference to `display(int)'
+collect2: ld returned 1 exit status
+15:06:11 **** Rebuild of configuration Debug for project Arrays ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays.o" "..\\src\\arrays.cpp" 
+Command canceled
+15:06:17 **** Rebuild of configuration Debug for project Arrays ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays.o" "..\\src\\arrays.cpp" 
+g++ -o Arrays.exe "src\\arrays.o" 
+Info: Nothing to build for Arrays
+Info: Nothing to build for Arrays
+Info: Nothing to build for Arrays
+15:35:01 **** Rebuild of configuration Debug for project 2DArray ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2array.o" "..\\src\\2array.cpp" 
+..\src\2array.cpp: In function 'int main()':
+..\src\2array.cpp:19:43: error: expected primary-expression before ';' token
+..\src\2array.cpp:19:49: error: invalid operands of types 'int' and 'const char [5]' to binary 'operator<<'
+15:35:50 **** Incremental Build of configuration Debug for project 2DArray ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2array.o" "..\\src\\2array.cpp" 
+..\src\2array.cpp: In function 'int main()':
+..\src\2array.cpp:19:43: error: expected primary-expression before ';' token
+..\src\2array.cpp:19:49: error: invalid operands of types 'int' and 'const char [5]' to binary 'operator<<'
+15:36:46 **** Incremental Build of configuration Debug for project 2DArray ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2array.o" "..\\src\\2array.cpp" 
+g++ -o 2DArray.exe "src\\2array.o" 
+Info: Nothing to build for 2DArray
+16:17:44 **** Rebuild of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+16:18:34 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+16:18:59 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+16:19:24 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+..\src\string.cpp: In function 'int main()':
+..\src\string.cpp:17:10: error: no match for 'operator-' in 'a - b'
+..\src\string.cpp:17:10: note: candidates are:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/bits/stl_iterator.h:321:5: note: template<class _Iterator> typename std::reverse_iterator::difference_type std::operator-(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/bits/stl_iterator.h:378:5: note: template<class _IteratorL, class _IteratorR> typename std::reverse_iterator<_IteratorL>::difference_type std::operator-(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/bits/stl_iterator.h:890:5: note: template<class _Iterator, class _Container> typename __gnu_cxx::__normal_iterator::difference_type __gnu_cxx::operator-(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/bits/stl_iterator.h:883:5: note: template<class _IteratorL, class _IteratorR, class _Container> typename __gnu_cxx::__normal_iterator<_IteratorL, _Container>::difference_type __gnu_cxx::operator-(const __gnu_cxx::__normal_iterator<_IteratorL, _Container>&, const __gnu_cxx::__normal_iterator<_IteratorR, _Container>&)
+16:29:08 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+..\src\string.cpp: In function 'int main()':
+..\src\string.cpp:15:9: error: invalid conversion from 'const char*' to 'char' [-fpermissive]
+16:29:42 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for stringExaample
+16:45:22 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\230' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\230' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp: In function 'int main()':
+..\src\string.cpp:15:20: error: 'v' was not declared in this scope
+..\src\string.cpp:15:28: error: 'i' was not declared in this scope
+..\src\string.cpp:15:44: error: 'h' was not declared in this scope
+..\src\string.cpp:15:52: error: 'o' was not declared in this scope
+..\src\string.cpp:15:60: error: 'r' was not declared in this scope
+..\src\string.cpp:15:7: warning: unused variable 'myname' [-Wunused-variable]
+..\src\string.cpp:16:7: warning: unused variable 'myname1' [-Wunused-variable]
+16:46:37 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\230' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:15:2: error: stray '\342' in program
+..\src\string.cpp:15:2: error: stray '\200' in program
+..\src\string.cpp:15:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\230' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp:16:2: error: stray '\342' in program
+..\src\string.cpp:16:2: error: stray '\200' in program
+..\src\string.cpp:16:2: error: stray '\231' in program
+..\src\string.cpp: In function 'int main()':
+..\src\string.cpp:15:20: error: 'v' was not declared in this scope
+..\src\string.cpp:15:28: error: 'i' was not declared in this scope
+..\src\string.cpp:15:44: error: 'h' was not declared in this scope
+..\src\string.cpp:15:52: error: 'o' was not declared in this scope
+..\src\string.cpp:15:60: error: 'r' was not declared in this scope
+16:48:46 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+16:48:58 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for stringExaample
+16:49:23 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+16:50:31 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+16:51:43 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+17:15:49 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for Arrays
+Info: Nothing to build for Arrays
+Info: Nothing to build for 2DArray
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+19:39:01 **** Incremental Build of configuration Debug for project stringExaample ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\string.o" "..\\src\\string.cpp" 
+..\src\string.cpp: In function 'int main()':
+..\src\string.cpp:19:7: warning: unused variable 'myname2' [-Wunused-variable]
+..\src\string.cpp:20:7: warning: unused variable 'myname3' [-Wunused-variable]
+g++ -o stringExaample.exe "src\\string.o" 
+Info: Nothing to build for stringExaample
+Info: Nothing to build for stringExaample
+20:27:08 **** Rebuild of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\fibonacci.o" "..\\src\\fibonacci.cpp" 
+g++ -o FibbonacciSeries.exe "src\\fibonacci.o" 
+16:03:15 **** Rebuild of configuration Debug for project tictactoe ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tictactoe.o" "..\\src\\tictactoe.cpp" 
+g++ -o tictactoe.exe "src\\tictactoe.o" 
+16:10:33 **** Rebuild of configuration Debug for project tictactoe ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tictactoe.o" "..\\src\\tictactoe.cpp" 
+..\src\tictactoe.cpp:7:21: fatal error: allegro.h: No such file or directory
+compilation terminated.
+16:14:17 **** Incremental Build of configuration Debug for project tictactoe ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\tictactoe.o" "..\\src\\tictactoe.cpp" 
+..\src\tictactoe.cpp:7:19: fatal error: allegro: No such file or directory
+compilation terminated.
+Info: Nothing to build for Arrays
+19:39:47 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays.o" "..\\src\\arrays.cpp" 
+g++ -o Arrays.exe "src\\arrays.o" 
+Info: Nothing to build for 2DArray
+Info: Nothing to build for 2DArray
+Info: Nothing to build for 2DArray
+21:19:02 **** Rebuild of configuration Debug for project RandomNumber ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\randongenerator.o" "..\\src\\randongenerator.cpp" 
+..\src\randongenerator.cpp: In function 'int main()':
+..\src\randongenerator.cpp:18:20: error: 'srand' was not declared in this scope
+..\src\randongenerator.cpp:21:24: error: 'rand' was not declared in this scope
+21:19:55 **** Incremental Build of configuration Debug for project RandomNumber ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\randongenerator.o" "..\\src\\randongenerator.cpp" 
+..\src\randongenerator.cpp: In function 'int main()':
+..\src\randongenerator.cpp:18:19: error: 'srand' was not declared in this scope
+..\src\randongenerator.cpp:21:24: error: 'rand' was not declared in this scope
+21:21:08 **** Incremental Build of configuration Debug for project RandomNumber ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\randongenerator.o" "..\\src\\randongenerator.cpp" 
+..\src\randongenerator.cpp: In function 'int main()':
+..\src\randongenerator.cpp:18:19: error: 'srand' was not declared in this scope
+..\src\randongenerator.cpp:21:24: error: 'rand' was not declared in this scope
+21:22:09 **** Incremental Build of configuration Debug for project RandomNumber ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\randongenerator.o" "..\\src\\randongenerator.cpp" 
+g++ -o RandomNumber.exe "src\\randongenerator.o" 
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+Info: Nothing to build for RandomNumber
+21:24:21 **** Rebuild of configuration Debug for project Substring ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\substring.o" "..\\src\\substring.cpp" 
+..\src\substring.cpp: In function 'int main()':
+..\src\substring.cpp:19:35: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+g++ -o Substring.exe "src\\substring.o" 
+Info: Nothing to build for Substring
+Info: Nothing to build for Substring
+16:47:46 **** Rebuild of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:22:11: error: incompatible types in assignment of 'const char [8]' to 'char [20]'
+..\src\structure.cpp:31:2: error: 'cout' was not declared in this scope
+..\src\structure.cpp:31:2: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+..\src\structure.cpp:19:7: warning: unused variable 'b1' [-Wunused-variable]
+..\src\structure.cpp:30:7: warning: unused variable 'b4' [-Wunused-variable]
+16:48:21 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:23:11: error: incompatible types in assignment of 'const char [8]' to 'char [20]'
+..\src\structure.cpp:20:7: warning: unused variable 'b1' [-Wunused-variable]
+..\src\structure.cpp:31:7: warning: unused variable 'b4' [-Wunused-variable]
+16:49:43 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:25:27: error: 'strcpy' was not declared in this scope
+..\src\structure.cpp:21:7: warning: unused variable 'b1' [-Wunused-variable]
+..\src\structure.cpp:33:7: warning: unused variable 'b4' [-Wunused-variable]
+16:50:37 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:25:27: error: 'strcpy' was not declared in this scope
+..\src\structure.cpp:21:7: warning: unused variable 'b1' [-Wunused-variable]
+..\src\structure.cpp:33:7: warning: unused variable 'b4' [-Wunused-variable]
+16:50:44 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:25:27: error: 'strcpy' was not declared in this scope
+..\src\structure.cpp:21:7: warning: unused variable 'b1' [-Wunused-variable]
+..\src\structure.cpp:33:7: warning: unused variable 'b4' [-Wunused-variable]
+16:57:02 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:24:11: error: incompatible types in assignment of 'const char [8]' to 'char [20]'
+..\src\structure.cpp:21:7: warning: unused variable 'b1' [-Wunused-variable]
+16:57:26 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:25:27: error: 'strcpy' was not declared in this scope
+..\src\structure.cpp:21:7: warning: unused variable 'b1' [-Wunused-variable]
+16:59:44 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+g++ -o structure.exe "src\\structure.o" 
+17:02:36 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:40:7: error: redeclaration of 'book b4'
+..\src\structure.cpp:35:7: error: 'book b4' previously declared here
+..\src\structure.cpp:41:27: error: 'inputDataFromFunction' was not declared in this scope
+17:02:48 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:41:27: error: 'inputDataFromFunction' was not declared in this scope
+17:06:55 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp:11:25: error: expected constructor, destructor, or type conversion before ';' token
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:42:27: error: 'inputDataFromFunction' was not declared in this scope
+17:08:33 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:44:12: error: too many arguments to function 'book display()'
+..\src\structure.cpp:12:7: note: declared here
+17:24:34 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+g++ -o structure.exe "src\\structure.o" 
+src\structure.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\structure\Debug/../src/structure.cpp:44: undefined reference to `display(book)'
+collect2: ld returned 1 exit status
+17:26:20 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+g++ -o structure.exe "src\\structure.o" 
+src\structure.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\structure\Debug/../src/structure.cpp:44: undefined reference to `display(book)'
+collect2: ld returned 1 exit status
+11:12:11 **** Rebuild of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:20:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+11:12:50 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:19:8: error: expected unqualified-id before 'int'
+..\src\referenceVariable.cpp:20:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+..\src\referenceVariable.cpp:19:6: warning: unused variable 'a' [-Wunused-variable]
+11:13:03 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:20:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+..\src\referenceVariable.cpp:19:6: warning: unused variable 'a' [-Wunused-variable]
+..\src\referenceVariable.cpp:19:9: warning: unused variable 'b' [-Wunused-variable]
+11:13:38 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:19:6: warning: unused variable 'a' [-Wunused-variable]
+..\src\referenceVariable.cpp:19:9: warning: unused variable 'b' [-Wunused-variable]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+Info: Nothing to build for ReferenceVariable
+11:14:02 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:20:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+..\src\referenceVariable.cpp:19:6: warning: unused variable 'a' [-Wunused-variable]
+..\src\referenceVariable.cpp:19:9: warning: unused variable 'b' [-Wunused-variable]
+11:14:18 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:20:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+..\src\referenceVariable.cpp:19:6: warning: unused variable 'a' [-Wunused-variable]
+..\src\referenceVariable.cpp:19:9: warning: unused variable 'b' [-Wunused-variable]
+11:15:44 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int&, int&)':
+..\src\referenceVariable.cpp:12:6: warning: unused variable 'x' [-Wunused-variable]
+..\src\referenceVariable.cpp:13:6: warning: unused variable 'y' [-Wunused-variable]
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:21:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+..\src\referenceVariable.cpp:20:6: warning: unused variable 'a' [-Wunused-variable]
+..\src\referenceVariable.cpp:20:9: warning: unused variable 'b' [-Wunused-variable]
+11:16:04 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int&, int&)':
+..\src\referenceVariable.cpp:12:6: warning: unused variable 'x' [-Wunused-variable]
+..\src\referenceVariable.cpp:13:6: warning: unused variable 'y' [-Wunused-variable]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+11:16:33 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int&, int&)':
+..\src\referenceVariable.cpp:12:6: warning: unused variable 'x' [-Wunused-variable]
+..\src\referenceVariable.cpp:13:6: warning: unused variable 'y' [-Wunused-variable]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+11:17:27 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+Info: Nothing to build for ReferenceVariable
+11:18:05 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int&, int&)':
+..\src\referenceVariable.cpp:14:11: warning: 'x' is used uninitialized in this function [-Wuninitialized]
+..\src\referenceVariable.cpp:14:11: warning: 'y' is used uninitialized in this function [-Wuninitialized]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+11:19:14 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:23:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+11:19:21 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:23:15: error: invalid initialization of non-const reference of type 'int&' from an rvalue of type 'int'
+..\src\referenceVariable.cpp:11:5: error: in passing argument 1 of 'int add(int&, int&)'
+11:19:30 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int&, int&)':
+..\src\referenceVariable.cpp:14:11: warning: 'x' is used uninitialized in this function [-Wuninitialized]
+..\src\referenceVariable.cpp:14:11: warning: 'y' is used uninitialized in this function [-Wuninitialized]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+Info: Nothing to build for ReferenceVariable
+Info: Nothing to build for ReferenceVariable
+Info: Nothing to build for ReferenceVariable
+Info: Nothing to build for ReferenceVariable
+Info: Nothing to build for ReferenceVariable
+Info: Nothing to build for ReferenceVariable
+18:16:41 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+18:17:39 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+18:18:26 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+18:18:58 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int add(int, int)':
+..\src\referenceVariable.cpp:14:11: warning: 'x' is used uninitialized in this function [-Wuninitialized]
+..\src\referenceVariable.cpp:14:11: warning: 'y' is used uninitialized in this function [-Wuninitialized]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+18:19:18 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:20:6: warning: variable 'a' set but not used [-Wunused-but-set-variable]
+..\src\referenceVariable.cpp:20:9: warning: variable 'b' set but not used [-Wunused-but-set-variable]
+..\src\referenceVariable.cpp: In function 'int add(int, int)':
+..\src\referenceVariable.cpp:14:11: warning: 'x' is used uninitialized in this function [-Wuninitialized]
+..\src\referenceVariable.cpp:14:11: warning: 'y' is used uninitialized in this function [-Wuninitialized]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+18:21:24 **** Incremental Build of configuration Debug for project ReferenceVariable ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\referenceVariable.o" "..\\src\\referenceVariable.cpp" 
+..\src\referenceVariable.cpp: In function 'int main()':
+..\src\referenceVariable.cpp:19:6: warning: variable 'a' set but not used [-Wunused-but-set-variable]
+..\src\referenceVariable.cpp:19:9: warning: variable 'b' set but not used [-Wunused-but-set-variable]
+g++ -o ReferenceVariable.exe "src\\referenceVariable.o" 
+Info: Nothing to build for ReferenceVariable
+19:19:07 **** Rebuild of configuration Debug for project FibbonacciSeries ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\fibonacci.o" "..\\src\\fibonacci.cpp" 
+g++ -o FibbonacciSeries.exe "src\\fibonacci.o" 
+19:23:08 **** Rebuild of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:17:13: warning: division by zero [-Wdiv-by-zero]
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+Info: Nothing to build for exceptionHandling
+19:24:50 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:18:13: warning: division by zero [-Wdiv-by-zero]
+..\src\exceptionhandling.cpp:18:6: warning: unused variable 'div' [-Wunused-variable]
+..\src\exceptionhandling.cpp:20:8: error: expected '(' before '{' token
+..\src\exceptionhandling.cpp:20:8: error: expected type-specifier before '{' token
+..\src\exceptionhandling.cpp:20:8: error: expected ')' before '{' token
+..\src\exceptionhandling.cpp:25:44: error: 'div' was not declared in this scope
+13:38:06 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp:10:11: error: '::main' must return 'int'
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:14:11: error: 'clrscr' was not declared in this scope
+..\src\exceptionhandling.cpp:15:4: error: 'cout' was not declared in this scope
+..\src\exceptionhandling.cpp:15:4: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+..\src\exceptionhandling.cpp:16:4: error: 'cin' was not declared in this scope
+..\src\exceptionhandling.cpp:16:4: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:61:18: note:   'std::cin'
+13:38:19 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp:10:11: error: '::main' must return 'int'
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:14:11: error: 'clrscr' was not declared in this scope
+..\src\exceptionhandling.cpp:15:4: error: 'cout' was not declared in this scope
+..\src\exceptionhandling.cpp:15:4: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:62:18: note:   'std::cout'
+..\src\exceptionhandling.cpp:16:4: error: 'cin' was not declared in this scope
+..\src\exceptionhandling.cpp:16:4: note: suggested alternative:
+c:\mingw\bin\../lib/gcc/i686-pc-mingw32/4.6.4/../../../../include/c++/4.6.4/iostream:61:18: note:   'std::cin'
+13:38:38 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp:11:11: error: '::main' must return 'int'
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:15:11: error: 'clrscr' was not declared in this scope
+13:38:49 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:15:11: error: 'clrscr' was not declared in this scope
+13:38:59 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+Info: Nothing to build for exceptionHandling
+13:41:43 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+13:42:09 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+13:42:12 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:19:23 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+Info: Nothing to build for exceptionHandling
+Info: Nothing to build for exceptionHandling
+14:24:13 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:24:52 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:25:32 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:26:20 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:27:04 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:27:56 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+g++ -o exceptionHandling.exe "src\\exceptionhandling.o" 
+c:/mingw/bin/../lib/gcc/i686-pc-mingw32/4.6.4/../../../../i686-pc-mingw32/bin/ld.exe: cannot open output file exceptionHandling.exe: Permission denied
+collect2: ld returned 1 exit status
+14:28:32 **** Incremental Build of configuration Debug for project exceptionHandling ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\exceptionhandling.o" "..\\src\\exceptionhandling.cpp" 
+..\src\exceptionhandling.cpp: In function 'int main()':
+..\src\exceptionhandling.cpp:33:57: error: 'b' was not declared in this scope
+15:20:59 **** Rebuild of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp:11:12: warning: 'x' initialized and declared 'extern' [enabled by default]
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:15:11: error: 'display1' was not declared in this scope
+..\src\structure.cpp: At global scope:
+..\src\structure.cpp:29:1: error: expected declaration before '}' token
+15:22:45 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp:11:12: warning: 'x' initialized and declared 'extern' [enabled by default]
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:15:16: error: 'a' was not declared in this scope
+15:26:28 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:26:9: error: expected primary-expression before '<<' token
+15:26:53 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:26:9: error: expected primary-expression before '<<' token
+15:27:05 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:16:2: warning: 'p' is used uninitialized in this function [-Wuninitialized]
+g++ -o structure.exe "src\\structure.o" 
+Info: Nothing to build for structure
+15:27:36 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:16:2: warning: 'p' is used uninitialized in this function [-Wuninitialized]
+g++ -o structure.exe "src\\structure.o" 
+15:30:39 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:16:24: error: expected primary-expression before '<' token
+15:30:54 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+..\src\structure.cpp: In function 'int main()':
+..\src\structure.cpp:16:24: error: expected primary-expression before '<' token
+15:31:02 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+g++ -o structure.exe "src\\structure.o" 
+Info: Nothing to build for structure
+15:31:54 **** Incremental Build of configuration Debug for project structure ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\structure.o" "..\\src\\structure.cpp" 
+g++ -o structure.exe "src\\structure.o" 
+18:26:41 **** Rebuild of configuration Debug for project SwapTwoCharacters ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping_two_characters.o" "..\\src\\swapping_two_characters.cpp" 
+g++ -o SwapTwoCharacters.exe "src\\swapping_two_characters.o" 

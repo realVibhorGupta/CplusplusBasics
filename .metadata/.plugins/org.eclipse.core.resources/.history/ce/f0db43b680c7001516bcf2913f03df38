@@ -1,0 +1,25 @@
+/*
+ * Series4.cpp
+ *
+ *  Created on: Jan 30, 2016
+ *      Author: vibhor
+ */
+#include<iostream>
+using namespace std;
+int main()
+{
+	int n;
+
+	cout<<"enter the number: ";
+	cin>>n;
+
+	for(float i=1;i<=n;i++){
+
+		int j=i*2;
+		cout<<j<<endl;
+
+
+	}
+}
+
+

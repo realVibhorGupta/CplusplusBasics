@@ -1,0 +1,29 @@
+/*
+ * continue.cpp
+ *
+ *  Created on: Jan 23, 2016
+ *      Author: vibhor
+ */
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+	int i;
+
+	if(i<10)
+	{
+		cout<<i;
+		if(i==4)
+		{
+			continue;
+		}
+		i++;
+	}
+}
+
+
+
+

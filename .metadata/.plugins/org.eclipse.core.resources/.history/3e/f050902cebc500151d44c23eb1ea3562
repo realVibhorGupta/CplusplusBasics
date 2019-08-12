@@ -1,0 +1,40 @@
+/*
+ * math_function.cpp
+ *
+ *  Created on: Jan 28, 2016
+ *      Author: vibhor
+ */
+
+#include <iostream>
+
+using namespace  std;
+
+int main()
+{
+	double number=2.0;
+	double number2=3.0;
+
+	//Returns the arc cosine value.
+	cout<<acos(number);
+
+	//Returns the arc tangent value.
+	cout<<atan(number);
+
+	//Returns the cosine value.
+	cout<<cos(number);
+
+	//Returns the hyperolic cosine value.
+	cout<<cosh(number);
+
+	//Returns the arc tangent of y/x.
+	cout<<atan2(number,number2);
+
+	//Returns the smallest integer not 	less than the given value.
+	cout<<ceil(3.8);
+
+	//
+
+
+}
+
+

@@ -1,0 +1,8 @@
+01:43:22 **** Rebuild of configuration Debug for project SumOfPositiveInteger ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum_positive_integer.o" "..\\src\\sum_positive_integer.cpp" 
+g++ -o SumOfPositiveInteger.exe "src\\sum_positive_integer.o" 
+
+01:43:24 Build Finished (took 2s.240ms)
+

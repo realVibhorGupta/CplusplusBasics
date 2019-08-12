@@ -1,0 +1,15 @@
+/*
+ * myHeaderFile.h
+ *
+ *  Created on: Jan 26, 2016
+ *      Author: vibhor
+ */
+
+#include <iostream>
+
+int  add(int i,int j)
+{
+
+	std::cout<<"my first header file";
+	return i+j;
+}

@@ -1,0 +1,13 @@
+14:40:55 **** Incremental Build of configuration Debug for project Debugging ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\program.o" "..\\src\\program.cpp" 
+..\src\program.cpp: In function 'int main()':
+..\src\program.cpp:15:6: warning: unused variable 'i' [-Wunused-variable]
+g++ -o Debugging.exe "src\\program.o" 
+src\program.o: In function `main':
+C:\Users\vibhor\Desktop\C++Learning\Debugging\Debug/../src/program.cpp:16: undefined reference to `display(int)'
+collect2: ld returned 1 exit status
+
+14:40:57 Build Finished (took 1s.997ms)
+

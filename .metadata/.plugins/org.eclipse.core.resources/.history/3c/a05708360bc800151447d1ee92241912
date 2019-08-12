@@ -1,0 +1,33 @@
+/*
+ * armstrng.cpp
+ *
+ *  Created on: Jan 31, 2016
+ *      Author: vibhor
+ */
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+	int  i,j,temp,n;
+
+	cout<<"Enter the number :";
+
+	cin>>n;
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+

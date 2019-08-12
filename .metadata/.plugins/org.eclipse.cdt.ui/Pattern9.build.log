@@ -1,0 +1,8 @@
+02:12:34 **** Incremental Build of configuration Debug for project Pattern9 ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pattern9.o" "..\\src\\pattern9.cpp" 
+g++ -o Pattern9.exe "src\\pattern9.o" 
+
+02:12:37 Build Finished (took 2s.615ms)
+
