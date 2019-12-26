@@ -22,9 +22,11 @@ int main() {
 		/**
 				 * display of numbers which are calculated
 				 */
-		cout<<"the mul of two  numbers is"<<endl;
+		cout<<"the mul of two  numbers is:"<<mul<<endl;
 		cout<<mul;
 	return 0;
+}
+return 0;
 }
 
 
