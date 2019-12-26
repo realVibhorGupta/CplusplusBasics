@@ -5,6 +5,7 @@
  *      Author: vibhor
  */
 #include <iostream>
+#include <math.h>       /* pow */
 
 using namespace std;
 
@@ -21,7 +22,7 @@ int main()
 	 * calculation takes place here
 	 */
 
-	area=length^2;
+	area= pow(20,2);
 	perimeter=4*length;
 
 
@@ -37,6 +38,5 @@ int main()
 
 
 }
-
 
 
