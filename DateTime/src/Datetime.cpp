@@ -9,25 +9,8 @@ using namespace std;
 
 int main()
 {
-	//Converts the contents of a structure into the format "day          month   date hours:minutes:seconds year."
-	//cout<<asctime();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// 	Converts the contents of a structure into the format "day          month   date hours:minutes:seconds year."
+	cout<<asctime();
 
 }
 
