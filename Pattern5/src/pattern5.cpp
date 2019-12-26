@@ -1,6 +1,6 @@
 /*
  * pattern5.cpp
- *
+ *pattern12 are same
  *  Created on: Jan 31, 2016
  *      Author: vibhor
  */
