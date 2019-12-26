@@ -8,7 +8,7 @@
 
 #include<iostream>
 using namespace std;
- int i=2.5;
+int i=2;
 double j=22;
 float k;
 char a;
@@ -21,7 +21,5 @@ int main()
 	cout<<"global variable is:"<<l<<endl;
 	cout<<"global variable is:"<<a;
 }
-
-
 
 
